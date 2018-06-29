@@ -1,0 +1,6 @@
+/*master css file developed by tempfisher.com*/
+@import url(bootstrap.min.css);
+@import url(main.css);
+@import url(font-awesome.css);
+@import url(responsive.css);
+@import url(animate/animate.css);
