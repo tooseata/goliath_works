@@ -112,7 +112,7 @@ margin-left: 250px !important;
 }
 /*home section*/
 section.home{
-background-image: url(../images/noise.png), url(../images/IMG_0695.jpg);
+background-image: url(../images/noise.png), url(../images/IMG_0695.png);
 background-repeat: repeat, no-repeat;
 background-position: left top;
 background-size: auto, cover;
